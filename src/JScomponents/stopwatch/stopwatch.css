@@ -1,0 +1,33 @@
+.stopwatch{
+    width: 100%;
+    height: 100%;
+    font-size: 300%;
+    background-color: darkgray;
+}
+.stopwatch_timer{
+    width: 100%;
+    height: 80%;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+}
+.stopwatch_buttons{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.stopwatch_buttons>button{
+    font-size: 50%;
+    width: 100%;
+    background-color: grey;
+    border: 0px;
+}
+.stopwatch_buttons>button:hover{
+    background-color: green;
+}
+.saveclass{
+    display: none;
+}

@@ -1,0 +1,68 @@
+.Sapper{
+    width: 100%;
+}
+.Array_Panel
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    font-size: 200%;
+}
+.Create_Array{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    font-size: 200%;
+    background-color: darkgray;
+}
+.row_Array{
+
+    padding: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.row_Array_atantion{
+    color: red;
+    font-size: 20px;
+    padding: 10px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.row_Array>input{
+    width: 50px;
+    text-decoration: none;
+}
+.Create_Array>button{
+    width: 100%;
+    font-size: 100%;
+    width: 100%;
+    background-color: grey;
+    border: 0px;
+}
+.Create_Array>button:hover{
+    background-color: green;
+}
+.Array{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    background-color: darkgray;
+}
+.Timer_Array{
+    text-align: center;
+    font-size: 100%;
+    width: 50%;
+    background-color: darkgray;
+    border: 0px;
+}

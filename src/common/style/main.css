@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.example{
+    width: 50%;
+    height: 400px;
+    margin: auto;
+}
+.Classnone{
+    display: none;
+}
