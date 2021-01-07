@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ITOP_STOPWATCH/static/css/main.82fcd14e.chunk.css",
+    "main.js": "/ITOP_STOPWATCH/static/js/main.86f7c394.chunk.js",
+    "main.js.map": "/ITOP_STOPWATCH/static/js/main.86f7c394.chunk.js.map",
+    "runtime-main.js": "/ITOP_STOPWATCH/static/js/runtime-main.e7e84371.js",
+    "runtime-main.js.map": "/ITOP_STOPWATCH/static/js/runtime-main.e7e84371.js.map",
+    "static/js/2.47e4fe22.chunk.js": "/ITOP_STOPWATCH/static/js/2.47e4fe22.chunk.js",
+    "static/js/2.47e4fe22.chunk.js.map": "/ITOP_STOPWATCH/static/js/2.47e4fe22.chunk.js.map",
+    "static/js/3.5cccadfc.chunk.js": "/ITOP_STOPWATCH/static/js/3.5cccadfc.chunk.js",
+    "static/js/3.5cccadfc.chunk.js.map": "/ITOP_STOPWATCH/static/js/3.5cccadfc.chunk.js.map",
+    "index.html": "/ITOP_STOPWATCH/index.html",
+    "static/css/main.82fcd14e.chunk.css.map": "/ITOP_STOPWATCH/static/css/main.82fcd14e.chunk.css.map",
+    "static/js/2.47e4fe22.chunk.js.LICENSE.txt": "/ITOP_STOPWATCH/static/js/2.47e4fe22.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7e84371.js",
+    "static/js/2.47e4fe22.chunk.js",
+    "static/css/main.82fcd14e.chunk.css",
+    "static/js/main.86f7c394.chunk.js"
+  ]
+}
